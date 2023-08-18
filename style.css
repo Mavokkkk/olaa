@@ -1,0 +1,22 @@
+#personagem {
+    width: 600x;
+    height: 400px;
+}
+
+body {
+    text-align: center;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(255,255,255,1) 50%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+
+}
+
+button {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px;
+}
